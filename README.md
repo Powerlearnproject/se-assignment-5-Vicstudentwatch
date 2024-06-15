@@ -138,5 +138,3 @@ Installation and Navigation of Visual Studio Code (VS Code)
    - Set up a remote repository on GitHub.
    - Use the terminal or the Source Control view to push changes (`git push origin main`).
 
-By following these steps, you can effectively set up and use Visual Studio Code on Windows 11 for a streamlined and productive development experience.
-
